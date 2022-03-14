@@ -1,0 +1,159 @@
+Chosen hyperparameters for training:
+{'timesteps_per_batch': 1000, 'max_timesteps_per_episode': 100, 'gamma': 0.99, 'n_updates_per_iteration': 10, 'lr': 0.0003, 'clip': 0.2, 'total_timesteps': 10000}
+Training
+Training from scratch.
+Learning... Running 100 timesteps per episode, 1000 timesteps per batch for a total of 10000 timesteps
+
+-------------------- Iteration #1 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: -17.6
+Average Loss: 0.21107
+Timesteps So Far: 1000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #2 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: 13.4
+Average Loss: 0.23193
+Timesteps So Far: 2000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #3 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: 19.6
+Average Loss: 0.21515
+Timesteps So Far: 3000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #4 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: -17.6
+Average Loss: 0.19702
+Timesteps So Far: 4000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #5 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: -11.4
+Average Loss: 0.22217
+Timesteps So Far: 5000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #6 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: -17.6
+Average Loss: 0.22667
+Timesteps So Far: 6000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #7 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: -5.2
+Average Loss: 0.22366
+Timesteps So Far: 7000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #8 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: 13.4
+Average Loss: 0.21064
+Timesteps So Far: 8000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #9 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: 25.8
+Average Loss: 0.21107
+Timesteps So Far: 9000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #10 --------------------
+Average Episodic Length: 100.0
+Average Episodic Return: 13.4
+Average Loss: 0.22512
+Timesteps So Far: 10000
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+Chosen hyperparameters for training:
+{'timesteps_per_batch': 1000, 'max_timesteps_per_episode': 100, 'gamma': 0.99, 'n_updates_per_iteration': 10, 'lr': 0.0003, 'clip': 0.2, 'total_timesteps': 2000000}
+Testing ppo_actor.pth
+
+-------------------- Episode #0 --------------------
+Episodic Length: 100
+Episodic Return: 32
+------------------------------------------------------
+
+
+-------------------- Episode #1 --------------------
+Episodic Length: 100
+Episodic Return: 32
+------------------------------------------------------
+
+
+-------------------- Episode #2 --------------------
+Episodic Length: 100
+Episodic Return: 32
+------------------------------------------------------
+
+
+-------------------- Episode #3 --------------------
+Episodic Length: 100
+Episodic Return: -92
+------------------------------------------------------
+
+
+-------------------- Episode #4 --------------------
+Episodic Length: 100
+Episodic Return: -92
+------------------------------------------------------
+
+
+-------------------- Episode #5 --------------------
+Episodic Length: 100
+Episodic Return: -92
+------------------------------------------------------
+
+
+-------------------- Episode #6 --------------------
+Episodic Length: 100
+Episodic Return: -92
+------------------------------------------------------
+
+
+-------------------- Episode #7 --------------------
+Episodic Length: 100
+Episodic Return: 94
+------------------------------------------------------
+
+
+-------------------- Episode #8 --------------------
+Episodic Length: 100
+Episodic Return: 32
+------------------------------------------------------
+
+
+-------------------- Episode #9 --------------------
+Episodic Length: 100
+Episodic Return: 94
+------------------------------------------------------
+

@@ -1,0 +1,38 @@
+=========NEW EXPERIMENT=========
+EXPERIMENT PARAMETERS:
+Figure number: 4
+Test repetitions: 10
+Verbosity: 0
+===============================
+HYPERPARAMETERS:
+Batch size: 5
+Discount factor: 1.0
+Epsilon start: 0.9
+Epsilon end: 0.3
+Epsilon decay: 200
+Target net update frequency: 5
+RNN hidden dimension: 10
+MLP hidden dimension: 7
+Learning rate: 0.01
+Replay memory weight: 4
+===============================
+TRAINING PARAMETERS:
+Number of episodes: 200
+Episode length: 50
+===============================
+EVALUATION PARAMETERS:
+Number of episodes: 100
+Episode length: 200 
+
+
+Average fail rate: 33.500000000000064%
+Average fail rate: 33.500000000000064%
+Average fail rate: 1.4999999999999976%
+Average fail rate: 1.4999999999999976%
+Average fail rate: 1.4999999999999976%
+Average fail rate: 33.500000000000064%
+Average fail rate: 33.500000000000064%
+Average fail rate: 1.4999999999999976%
+Average fail rate: 1.4999999999999976%
+Average fail rate: 33.500000000000064%
+Experiment 4 Failure Rate: 17.500000000000032%
